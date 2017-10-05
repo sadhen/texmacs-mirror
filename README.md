@@ -9,6 +9,6 @@ This repo is maintained for the improvements of TeXmacs.
 | master | WIP  | display this README |
 | [esperanto](https://github.com/sadhen/texmacs-1/pull/7) | MERGED | basic Esperanto support |
 | [cmake](https://github.com/texmacs/texmacs/pull/1)  | MERGED | provide CMake build for TeXmacs on MacOS |
-| [lp0](https://github.com/texmacs/texmacs/pull/2)   | WIP        | first attempt to improve and fix bugs for literate programming in TeXmacs |
+| [lp0](https://github.com/texmacs/texmacs/pull/2)   | MERGED | first attempt to improve and fix bugs for literate programming in TeXmacs |
 | git  | NOT STARTED | integrate my previous work on TeXmacs Git plugin |
 | kate | NOT STARTED | code snippet using https://github.com/KDE/syntax-highlighting |
